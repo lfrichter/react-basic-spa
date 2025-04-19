@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  height: 100vh;
+  background-color: rgb(157, 157, 199);
+}
+
+/* .Content {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+} */
+
+
+/* .App {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    border: 2px solid blue;
+} */
+
+/* .Content {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+    border: solid 3px red;
+} */
