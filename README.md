@@ -3,6 +3,8 @@
 
 A sleek and simple Single Page Application (SPA) built with **React** and **React Router**.
 
+![SPA](https://i.imgur.com/1uPEuxP.png)
+
 ## 📖 Project Overview
 
 This project serves as a lightweight SPA implementation, leveraging:
